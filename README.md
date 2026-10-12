@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="15px">
-  Aspiring Master in Codeforces and soon to embark on a Computational Finance Masters at KCL
+  Completed Computational Finance Masters at KCL and waiting for final grade
 </p>
 
 <p align="center">  
