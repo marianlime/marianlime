@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/4nqosyU76HsAAAAC/cat-groove.gif" width="15px">
-  Completed Computational Finance Masters at KCL and waiting for final grade
+  MSc Computational Finance (Merit) at KCL
 </p>
 
 <p align="center">  
